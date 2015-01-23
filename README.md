@@ -1,5 +1,5 @@
 # My Rpubs
-This repository holds my Rpubs on various topics.
+This repository holds my Rpubs / Shiny apps on various topics.
 
 
 #### Social Data Analysis and Visualization
@@ -8,6 +8,8 @@ This repository holds my Rpubs on various topics.
 
 #### General Data Visualization
 - https://jalapic.shinyapps.io/dynamiclines/dynamiclines.Rmd  #experimenting with dynamic line charts in ggvis
+- https://jalapic.shinyapps.io/interactivelines/ggvislines.Rmd  #interactive line graphs in ggvis
+ 
 
 #### Sports Data
 An assortment of quick guides on visualizing and analyzing large sports datasets - examples mainly from my `engsoccerdata` R package.
