@@ -7,6 +7,7 @@ This repository holds my Rpubs / Shiny apps on various topics.
 
 
 #### General Data Visualization
+- http://rpubs.com/jalapic/animals  #adding animal images from rphylopic library to scatterplots
 - https://jalapic.shinyapps.io/dynamiclines/dynamiclines.Rmd  #experimenting with dynamic line charts in ggvis
 - https://jalapic.shinyapps.io/interactivelines/ggvislines.Rmd  #interactive line graphs in ggvis
  
