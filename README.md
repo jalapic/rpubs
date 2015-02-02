@@ -2,6 +2,10 @@
 This repository holds my Rpubs / Shiny apps on various topics.
 
 
+
+#### General
+- http://rpubs.com/jalapic/intror_syllabus #My Introductory R course syllabus
+
 #### Social Data Analysis and Visualization
 - http://rpubs.com/jalapic/sociogram  #making circular sociograms with DiagrammeR R package
 
