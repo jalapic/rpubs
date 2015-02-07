@@ -9,6 +9,7 @@ This repository holds my Rpubs / Shiny apps on various topics.
 #### Social Data Analysis and Visualization
 - http://rpubs.com/jalapic/sociogram  #making circular sociograms with DiagrammeR R package
 - http://rpubs.com/jalapic/music #using 'music notation' to depict temporal social interactions
+(also see this shiny app: https://jalapic.shinyapps.io/music/)
 
 #### General Data Visualization
 - http://rpubs.com/jalapic/animals  #adding animal images from rphylopic library to scatterplots
