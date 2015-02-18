@@ -19,7 +19,7 @@ This repository holds my Rpubs / Shiny apps on various topics.
 - http://rpubs.com/jalapic/animals  #adding animal images from rphylopic library to scatterplots
 - https://jalapic.shinyapps.io/dynamiclines/dynamiclines.Rmd  #experimenting with dynamic line charts in ggvis
 - https://jalapic.shinyapps.io/interactivelines/ggvislines.Rmd  #interactive line graphs in ggvis
- 
+- http://rpubs.com/jalapic/babynames #using PCA, K-means clustering and TSNE to cluster popularity in babynames 
 
 #### Sports Data
 An assortment of quick guides on visualizing and analyzing large sports datasets - examples mainly from my `engsoccerdata` R package.
