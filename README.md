@@ -21,6 +21,12 @@ This repository holds my Rpubs / Shiny apps on various topics.
 - https://jalapic.shinyapps.io/interactivelines/ggvislines.Rmd  #interactive line graphs in ggvis
 - http://rpubs.com/jalapic/babynames #using PCA, K-means clustering and TSNE to cluster popularity in babynames 
 
+#### Maps
+
+- http://rpubs.com/jalapic/eplbirths  #birthplaces of EPL players
+- http://rpubs.com/jalapic/NHLbirths  #birthplaces of NHL players
+- http://rpubs.com/jalapic/uksoccergrounds  #UK soccer grounds
+
 #### Sports Data
 An assortment of quick guides on visualizing and analyzing large sports datasets - examples mainly from my `engsoccerdata` R package.
 
@@ -30,3 +36,5 @@ An assortment of quick guides on visualizing and analyzing large sports datasets
 - http://rpubs.com/jalapic/gamebygame
 - http://rpubs.com/jalapic/seasons
 - http://rpubs.com/jalapic/laliga
+- http://rpubs.com/jalapic/mlsratings #cautionary notes about using ELO ratings for soccer
+
